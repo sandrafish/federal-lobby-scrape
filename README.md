@@ -1,2 +1,6 @@
 # federal-lobby-scrape
-Script to scrape the federal lobby site, you'll need an API
+This is a Python/Pandas script to scrape the [federal lobby site](https://lda.senate.gov/system/public/) for filings from a specific state. 
+
+
+
+You'll need an API
